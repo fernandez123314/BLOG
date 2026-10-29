@@ -1,0 +1,4 @@
+{
+  "/api/memory/route": "app/api/memory/route.js",
+  "/page": "app/page.js"
+}
